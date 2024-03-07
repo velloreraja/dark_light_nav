@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dark_light_nav/static/css/main.5e948b7e.css",
+    "main.js": "/dark_light_nav/static/js/main.67f4b7d9.js",
+    "static/media/infinity.png": "/dark_light_nav/static/media/infinity.538d0c46e2015c23df34.png",
+    "index.html": "/dark_light_nav/index.html",
+    "main.5e948b7e.css.map": "/dark_light_nav/static/css/main.5e948b7e.css.map",
+    "main.67f4b7d9.js.map": "/dark_light_nav/static/js/main.67f4b7d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e948b7e.css",
+    "static/js/main.67f4b7d9.js"
+  ]
+}
